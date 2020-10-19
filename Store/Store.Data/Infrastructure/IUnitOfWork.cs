@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Store.Data.Infrastructure
 {
-    interface IUnitOfWork
+    public interface IUnitOfWork
     {
         void Commit();
     }
