@@ -9,4 +9,7 @@
 
 
 *.cache
+*.SqlServer.xml
+EntityFramework.xml
+Store.Data.dll.config
 
