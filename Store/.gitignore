@@ -1,0 +1,12 @@
+.vs\Store\v16\.suo
+
+*.dll
+*.pdb
+
+*.CopyComplete
+
+*.FileListAbsolute.txt
+
+
+*.cache
+
