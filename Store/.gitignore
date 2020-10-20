@@ -1,4 +1,4 @@
-.vs\Store\v16\.suo
+*.testlog
 
 *.dll
 *.pdb
@@ -6,7 +6,8 @@
 *.CopyComplete
 
 *.FileListAbsolute.txt
-
+*.suo
+*testlog.manifest
 
 *.cache
 *.SqlServer.xml
