@@ -12,7 +12,7 @@ namespace Store.Data
 {
     public class StoreEntities: DbContext
     {
-        public StoreEntities(): base("StoreEntities")
+        public StoreEntities(): base("name=StoreEntities")
         {
         }
 

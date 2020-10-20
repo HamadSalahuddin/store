@@ -1,5 +1,6 @@
 *.testlog
 
+#dlls and pdbs
 *.dll
 *.pdb
 
@@ -9,8 +10,23 @@
 *.suo
 *testlog.manifest
 
+#folders
+/packages
+
+#bins
+/store.web/bin
+
+# caches
 *.cache
+
+# xmls
 *.SqlServer.xml
 EntityFramework.xml
+
+# configs
 Store.Data.dll.config
+applicationhost.config
+
+#nuget packages.
+*.nupkg
 
